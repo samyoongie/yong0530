@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+<Resource name="jdbc/CMSDB"
+type="javax.sql.DataSource"
+username="sam"
+password="123"
+driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+url="jdbc:sqlserver://localhost\\DEKSTOP-CSPUA39:1433;databaseName=ContainerManagement"/>
+</Context>
